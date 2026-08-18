@@ -26,9 +26,10 @@ These fields often contain historical or service accounts and are not relevant t
 
 ## Output
 
-The skill produces a structured summary that includes:
+The skill produces a structured summary email that includes:
 
 - Lists scanned
+- Person Name
 - Custom People fields inspected
 - Items containing inactive accounts
 - Details about each inactive account detected
