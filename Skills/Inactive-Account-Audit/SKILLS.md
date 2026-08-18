@@ -18,7 +18,7 @@ Use this skill to audit a SharePoint site for inactive or stale user accounts as
 - Recipient email address and subject for the report.
 - Rules for excluding reviewed or closed items.
 
-Default for <My Project Site>:
+Default for My Project Site Name:
 - Site: `https://microsoft.sharepoint.com/<sites/teams>/<sitename>`
 - Exclude list: `<ListName>`
 - Exclude system Person fields: Created By, Modified By, Author, Editor, Checked Out By, Shared With
