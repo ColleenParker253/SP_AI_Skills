@@ -9,7 +9,7 @@ A curated library of AI skills and for SharePoint
 ## What's Inside
 
 | Folder | Purpose |
-|---|---|
+|--------|---|
 | [`Skills/`](./Skills/) | SP AI skills — each skill in its own folder |
 | [`Inactive Account Audit`](./Skills/Inactive-Account-Audit/) | Inactive Account Audit - Identifies inactive accounts in your SharePoint lists and sends you an email to remediate.
 ---
