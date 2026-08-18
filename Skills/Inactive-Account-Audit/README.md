@@ -32,7 +32,8 @@ The skill produces a structured summary that includes:
 - Custom People fields inspected
 - Items containing inactive accounts
 - Details about each inactive account detected
-<img width="620" height="430" alt="Update-Inactive-Accounts" src="https://github.com/user-attachments/assets/282266e8-6ac6-434e-b8dd-c86e1e7a6ca0" />
+<img width="620" height="430" alt="Update-Inactive-Accounts" src="[https://github.com/user-attachments/assets/282266e8-6ac6-434e-b8dd-c86e1e7a6ca0](https://github.com/ColleenParker253/SP_AI_Skills/blob/main/Skills/Inactive-Account-Audit/images/Inactive-Account-Audit-Email.png)" />
+
 ## Use Cases
 
 - Governance and compliance audits
