@@ -1,4 +1,3 @@
-
 # Inactive-Account-Audit
 
 The **Inactive-Account-Audit** skill scans all lists within a SharePoint site to identify inactive user accounts stored in custom People fields. It is designed to support governance, cleanup, and workflow reliability by highlighting items assigned to accounts that are no longer active in the organization.
