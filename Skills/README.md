@@ -12,7 +12,7 @@ This guide explains how to add a `SKILL.md` file to SharePoint and ensure it is 
 
 A skill **must** be stored in the following path:
 
-Agent Assets/Skills/'<skill-name>'/SKILL.md
+`Agent Assets/Skills/<skill name>/SKILL.md`
 
 
 **Important:** Copilot will not load a skill unless the `SKILL.md` file is inside its own folder under **Skills**.
