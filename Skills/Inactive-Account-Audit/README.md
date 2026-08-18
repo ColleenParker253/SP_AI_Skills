@@ -33,6 +33,8 @@ The skill produces a structured summary that includes:
 - Items containing inactive accounts
 - Details about each inactive account detected
 
+<img src="./images/Inactive-Account-Audit-Email.png" width="600" alt="Screenshot of email table"></img>
+
 
 ## Use Cases
 
